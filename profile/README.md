@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Electronic CAD & Reliability Group
+The Electronic CAD & Reliability Group is a research group inside the Department of Control and Computer Engineering (DAUIN) of Politecnico di Torino. Its mission is to support, through techniques, tools, and services, the designer of electronic circuits and systems. The research conducted by the group spans the whole spectrum of classical computer-aided design topics, with particular emphasis on testing, fault tolerance, and validation of digital circuits and systems described at various levels of abstraction.
